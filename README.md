@@ -4,7 +4,7 @@ This project is a responsive and modern **Virtual Reality Landing Page** built u
 
 ## Live Demo
 
-You can view the live demo [here](https://RAJESH2132.github.io/Virtual-Reality-Landing-Page/).
+You can view the live demo [here](https://virtual-reality-website-demo.netlify.app/).
 
 ## Technologies Used
 
