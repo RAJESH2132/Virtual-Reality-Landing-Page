@@ -10,7 +10,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <div className="max-w-7xl mx-auto pt-20 px-6">
+      <div className="px-6 pt-20 mx-auto max-w-7xl">
         <HeroSection />
         <FeatureSection />
         <Workflow />
